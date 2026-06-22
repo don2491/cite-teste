@@ -1,0 +1,30 @@
+body{margin: 0%;
+padding: 0% ;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    margin-top: 20px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    font-family: 'Arial', sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+    font-size: 18px;
+}
+
+*{
+    font-family: 'Arial', sans-serif;
+}
+main{
+    display: flex;
+    
+}
